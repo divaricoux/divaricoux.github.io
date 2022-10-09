@@ -4,7 +4,7 @@ layout: default
 
 # Paul Newton-Jackson
 
-**Scholar / Composer / Music Editor**
+Scholar / Composer / Music Editor
 
 ## Musicology
 
