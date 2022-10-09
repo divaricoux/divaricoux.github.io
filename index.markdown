@@ -23,7 +23,4 @@ Recording review: ‘Baroque Chamber Music from Italy, Germany and France’, in
 
 Book Review: _Polish Style in the Music of J. S. Bach by Szymon Paczkowski_ (2017), in _Early Music_, Volume 47, Issue 4 (November 2019), pages 587–589.
 
-~~~python
-import os,time
-print ("Biscuit")
 ~~~
