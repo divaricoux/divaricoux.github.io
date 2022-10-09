@@ -20,10 +20,3 @@ Book Review: _Polish Style in the Music of J. S. Bach by Szymon Paczkowski_ (201
 import os,time
 print ("Biscuit")
 ~~~
-
-## Licence and Author Information
-
-Biscuit is derived from currently deprecated theme [Solo](http://github.com/chibicode/solo). The development of Biscuit is maintained by [Sefer Bora Lisesivdin](https://lrgresearch.org/bora).
-
-Biscuit and the previous code where Biscuit is derived are distributed with [MIT license](https://github.com/sblisesivdin/biscuit/blob/gh-pages/LICENSE).
-
