@@ -9,10 +9,12 @@ layout: default
 ## Musicology
 
  
-### PhD Thesis 
+**PhD Thesis** 
+
 Georg Philipp Telemann and the Invention of 'the Polish Style': Musical Polishness in the Early Modern German Imagination (University of Cambridge, April 2022) ([Open Access](https://doi.org/10.17863/CAM.89102))
 
-### Publications
+**Publications**
+
 Article: 'Mixed Meter in a Mixed Taste: Telemann and Eighteenth-Century Metric Theory', _Eighteenth Century Music_, Volume 18, Issue 21 (March 2021), pages 11–39 ([Open Access](https://doi.org/10.1017/S1478570620000433))
 
 Book Review: _The Telemann Compendium_ by Steven Zohn (2020), in _Music & Letters_, Volume 101, Issue 3 (August 2020), pages 583–586.
