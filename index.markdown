@@ -4,7 +4,7 @@ layout: default
 
 # Paul Newton-Jackson
 
-** [Scholar](https://scholar.google.com/citations?hl=en&user=8MY8xh0AAAAJ/) / Composer / Music Editor**
+**Scholar / Composer / Music Editor**
 
 ## Usage
 
