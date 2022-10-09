@@ -21,5 +21,11 @@ Book Review: _The Telemann Compendium_ by Steven Zohn (2020), in _Music & Letter
 
 Recording review: ‘Baroque Chamber Music from Italy, Germany and France’, in _Early Music_, Volume 48, Issue 2 (May 2020), pages 278–281.
 
-Book Review: _Polish Style in the Music of J. S. Bach by Szymon Paczkowski_ (2017), in _Early Music_, Volume 47, Issue 4 (November 2019), pages 587–589.
+Book Review: _Polish Style in the Music of J. S. Bach_ by Szymon Paczkowski (2017), in _Early Music_, Volume 47, Issue 4 (November 2019), pages 587–589.
 
+
+
+
+[Google Scholar](https://scholar.google.com/citations?hl=en&user=8MY8xh0AAAAJ)
+
+paulnewtonjackson@gmail.com
