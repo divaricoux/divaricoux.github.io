@@ -16,4 +16,3 @@ Article: 'Mixed Meter in a Mixed Taste: Telemann and Eighteenth-Century Metric T
 Book Review: _The Telemann Compendium_ by Steven Zohn (2020), in _Music & Letters_, Volume 101, Issue 3 (August 2020), pages 583–586.
 Recording review: ‘Baroque Chamber Music from Italy, Germany and France’, in _Early Music_, Volume 48, Issue 2 (May 2020), pages 278–281.
 Book Review: _Polish Style in the Music of J. S. Bach by Szymon Paczkowski_ (2017), in _Early Music_, Volume 47, Issue 4 (November 2019), pages 587–589.
-
