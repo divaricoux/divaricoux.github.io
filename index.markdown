@@ -25,7 +25,7 @@ If you prefer to use Github Pages, you do not need to download it, upload files 
 
 ## Example tag usage
 
-## Scholarship
+## Musicology
 
 ### PhD Thesis 
 *Georg Philipp Telemann and the Invention of 'the Polish Style': Musical Polishness in the Early Modern German Imagination* (University of Cambridge, April 2022) ([Open Access](https://doi.org/10.17863/CAM.89102
