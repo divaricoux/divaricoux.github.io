@@ -173,6 +173,12 @@ pre > code {
   padding: 0 1rem;
 }
 
-.header h1 {
-  margin-bottom: 1rem;
+.header {
+  h1 {
+    margin-bottom: 1rem;
+  }
+
+  h3 {
+    margin-top: 1rem;
+  }
 }
