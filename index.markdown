@@ -2,12 +2,7 @@
 layout: default
 ---
 
-# Paul Newton-Jackson
-
-**Scholar / Composer / Music Editor**
-
 ## Musicology
-
  
 **PhD Thesis** 
 
@@ -23,9 +18,8 @@ Recording review: ‘Baroque Chamber Music from Italy, Germany and France’, in
 
 Book Review: _Polish Style in the Music of J. S. Bach_ by Szymon Paczkowski (2017), in _Early Music_, Volume 47, Issue 4 (November 2019), pages 587–589.
 
-
-
+## Contact
 
 [Google Scholar](https://scholar.google.com/citations?hl=en&user=8MY8xh0AAAAJ)
 
-paulnewtonjackson@gmail.com
+<script type="text/javascript">var email = "paulnewtonjackson", domain = "gmail.com", text = "paulnewtonjackson@gmail.com";document.write("<a href=javascript:location='" + "mail" + "to:" + email + "@" + domain + "'>" + text + "</a>");</script>
